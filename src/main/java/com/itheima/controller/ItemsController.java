@@ -24,4 +24,9 @@ public class ItemsController {
     public void tt(){
 
     }
+
+    public void tt222(){
+      int i = 0;
+      i+=10;
+    }
 }
